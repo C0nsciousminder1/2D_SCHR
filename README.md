@@ -1,2 +1,1 @@
-# 2D_SCHR
-# 2D_SCHR
+# Numerical Solution of 2D Schrödinger Equation
